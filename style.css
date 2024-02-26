@@ -38,8 +38,9 @@ h2{
 }
 
 .square{ 
-    border: 2px solid white; 
-    background-color: rgba(44, 44, 46, 1);
+    border: 2px solid black; 
+    background-color: white;
+    /*background-color: rgba(44, 44, 46, 1);*/
     height: 140px; 
     width: 140px; 
 
