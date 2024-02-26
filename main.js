@@ -75,6 +75,7 @@ function init(){
     ]; 
 
     render(); 
+    messages.textContent = `It's ${turn}'s turn!`
 }; 
 
 init(); 
